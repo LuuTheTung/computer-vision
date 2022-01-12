@@ -20,4 +20,4 @@ pip install numpy
 ```
 python yolo_api.py
 ```
-##
+##For Client and Server, you have to install XAMPP, MySQL, Visual Code, PHPStorm, import cake data (price, cake name) to database, which is not related to Computer vision.
